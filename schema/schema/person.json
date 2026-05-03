@@ -1,0 +1,14 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Founder Name",
+  "jobTitle": "Founder",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Worknoon"
+  },
+  "url": "https://worknoon.com",
+  "sameAs": [
+    "https://www.linkedin.com/in/founder-profile"
+  ]
+}
