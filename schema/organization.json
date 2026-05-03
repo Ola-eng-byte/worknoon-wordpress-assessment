@@ -4,9 +4,14 @@
   "name": "Worknoon",
   "url": "https://worknoon.com",
   "logo": "https://worknoon.com/logo.png",
+  "description": "Worknoon is a digital solutions company focused on building scalable web systems and digital experiences.",
+  "founder": {
+    "@type": "Person",
+    "name": "Founder Name Here"
+  },
   "sameAs": [
     "https://www.linkedin.com/company/worknoon",
-    "https://twitter.com/worknoon"
-  ],
-  "description": "Worknoon is a platform that helps businesses build scalable systems and optimize digital growth."
+    "https://twitter.com/worknoon",
+    "https://instagram.com/worknoon"
+  ]
 }
